@@ -1,7 +1,7 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-I'm currently a 9th grader who has grown massive interest in code, and I'm diving into the world of coding at jCoders, where right now I'm learning JavaScript basics. Although I'm very passionate about programming and may be one of my career options, my main aspiration is becoming a neurosurgeon. Weird combo of interests haha <br/>
+I'm currently a 9th grader who has grown massive interest in code, and I'm diving into the world of coding at jCoders, where right now I'm learning JavaScript basics. Although I'm very passionate about programming and may be one of my career options. <br/>
 <br/>
 While I'm not coding, I'm either hibernating in my room, sketching, editing vids/pics, or chatting with my homegirls. Productive? You can be the judge of that. I also LOOOOVE watching movies and series, especially if it's in another language.
 <br/>
