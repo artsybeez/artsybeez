@@ -1,4 +1,4 @@
-<img src = "https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height = "1000" width = "1000" alt = "lofi girl on laptop GIF">
+<img src = "https://media.tenor.com/qsbLvtvzEjQAAAAM/pusheen-computer.gif" height = "1000" width = "1000" alt = "pusheen on laptop GIF">
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
 I'm currently a 9th grader who has grown massive interest in code, and I'm diving into the world of coding at jCoders, where right now I'm learning JavaScript basics. I'm very passionate about programming and may be one of my career options. <br/>
