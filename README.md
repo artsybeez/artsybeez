@@ -4,7 +4,7 @@
 </div>
 <br><br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
-<h2>𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
+<h1>𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h1>
 
 I'm currently a 9th grader who has grown massive interest in code, and I'm diving into the world of coding at jCoders, where right now I'm learning JavaScript basics. I'm very passionate about programming and may be one of my career options. <br/>
 <br/>
@@ -12,12 +12,12 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 <br/>
 <br><br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
-<h2>𝑀𝓎 𝓅𝓊𝒷𝓁𝒾𝒸 𝓇𝑒𝓅𝑜𝓈</h2>
+<h1>𝑀𝓎 𝓅𝓊𝒷𝓁𝒾𝒸 𝓇𝑒𝓅𝑜𝓈</h1>
 
-**Cafe Menu [ f ]** -  A simple project built using **HTML** and **CSS**, featuring a responsive cafe menu layout that displays food items and prices in a clean, modern design. <br><br>
-**Cat Photo App [ f ]** - Another project where **HTML** and **CSS** have been used, which the main thing is facts about cats and it includes a form where you can complete about your cat. <br><br>
-**Turtle road crossing game [ f ]** - A simple game made with **Python** where you play as a turtle and you have to cross many roads without getting run over by the fast-moving vehicles. <br><br>
-**Survey Form [ uf ]** - A survey form for an online company where data about accessibility and enjoyment of the company's website is collected to make further improvements of that website. <br><br>
+**Cool Piano Sim [ f ]** -  A website where you can explore different sounds just by pressing the corresponding key. They're not exactly piano notes tho haha. Used: **HTML, CSS, JS** <br><br>
+**Issue Reporter [ f ]** - A simple website where you can report whatever issue you have with your device and/or code. Used: **HTML, CSS, JS** <br><br>
+**Boxy [ f ]** - Cool little simulator where you can move a box around, change its size and color too. Used: **HTML, CSS, JS** <br><br>
+**bmyvalentine [ f ]** - Very popular Valentine's themed website to send to your crush. Used: **HTML, CSS, JS** <br><br>
 
 *Just to name a few...*
   
@@ -26,12 +26,12 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 <br><br>
 
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif">
-<h2>𝑀𝓎 𝓅𝓇𝒾𝓋𝒶𝓉𝑒 𝓇𝑒𝓅𝑜𝓈</h2>
+<h1>𝑀𝓎 𝓅𝓇𝒾𝓋𝒶𝓉𝑒 𝓇𝑒𝓅𝑜𝓈</h1>
 
-### Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those.<br/><br/>
+### Well, I don't have to tell you all about them, but what I can tell you is that I have a lot of those!<br/><br/>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif">
 
-### 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀  
+<h1>𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀</h1> 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma" alt="Tech Stack Icons" /> <br>
