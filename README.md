@@ -14,7 +14,7 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
 <h1>𝑀𝓎 𝓅𝓊𝒷𝓁𝒾𝒸 𝓇𝑒𝓅𝑜𝓈</h1>
 
-**Cool Piano Sim [ f ]** -  A website where you can explore different sounds just by pressing the corresponding key. They're not exactly piano notes tho haha. Used: **HTML, CSS, JS** <br><br>
+**Cool Piano Sim [ uf ]** -  A website where you can explore different sounds just by pressing the corresponding key. They're not exactly piano notes tho haha. Used: **HTML, CSS, JS** <br><br>
 **Issue Reporter [ f ]** - A simple website where you can report whatever issue you have with your device and/or code. Used: **HTML, CSS, JS** <br><br>
 **Boxy [ f ]** - Cool little simulator where you can move a box around, change its size and color too. Used: **HTML, CSS, JS** <br><br>
 **bmyvalentine [ f ]** - Very popular Valentine's themed website to send to your crush. Used: **HTML, CSS, JS** <br><br>
