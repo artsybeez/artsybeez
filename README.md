@@ -2,7 +2,7 @@
   <img src = "https://media.tenor.com/qsbLvtvzEjQAAAAM/pusheen-computer.gif" height = "500" width = "500" alt = "pusheen on laptop GIF"><br> 
   <img src="http://dl3.glitter-graphics.net/pub/1238/1238563s6wfel4lo6.gif" width=400 height=150 border=0>
 </div>
-<br><br>
+<br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
 <h1>𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h1>
 
@@ -35,7 +35,7 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,figma" alt="Tech Stack Icons" /> <br>
-</div>
+</div> <br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
 <div align = "center">
   <img src="http://dl8.glitter-graphics.net/pub/487/487008vcd6rlc0jz.gif" width=300 height=240 border=0>
