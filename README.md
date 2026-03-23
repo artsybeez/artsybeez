@@ -35,7 +35,7 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 <h1>𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀</h1> 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,figma,javascript" alt="Tech Stack Icons" /> <br>
+  <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,bootstrap,figma,javascript,p5js" alt="Tech Stack Icons" /> <br>
 </div> <br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
 <div align = "center">
