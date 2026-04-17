@@ -16,6 +16,7 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 
 **Cool Piano Sim [ f ]** -  A website where you can explore different sounds just by pressing the corresponding key. They're not exactly piano notes tho haha. <br><br>
 **bmyvalentine [ f ]** - Very popular Valentine's themed website to send to your crush. <br><br>
+**lazyabbreviationz [ f ]** - Simple HotKey that's useful for when you want to save time texting and not look lazy at the same time. <br><br>
   
 - **f** – finished  
 - **uf** – unfinished
