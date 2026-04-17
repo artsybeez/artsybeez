@@ -1,6 +1,6 @@
 <div align = "center">
-  <img src = "https://media.tenor.com/qsbLvtvzEjQAAAAM/pusheen-computer.gif" height = "500" width = "500" alt = "pusheen on laptop GIF"><br> 
-  <img src="http://dl3.glitter-graphics.net/pub/1238/1238563s6wfel4lo6.gif" width=400 height=150 border=0>
+  <img src = "https://media.tenor.com/qsbLvtvzEjQAAAAM/pusheen-computer.gif" height = "500" width = "800" alt = "pusheen on laptop GIF"><br> 
+  <img src="http://dl3.glitter-graphics.net/pub/1238/1238563s6wfel4lo6.gif" width=500 height=200 border=0>
 </div>
 <br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
@@ -39,5 +39,5 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 </div> <br>
 <img src = "https://media.tenor.com/gVx0MOidOqIAAAAj/pink-divider.gif"><br>
 <div align = "center">
-  <img src="http://dl8.glitter-graphics.net/pub/487/487008vcd6rlc0jz.gif" width=300 height=240 border=0>
+  <img src="http://dl8.glitter-graphics.net/pub/487/487008vcd6rlc0jz.gif" width=300 height=100 border=0>
 </div>
