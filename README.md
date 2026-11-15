@@ -1,4 +1,4 @@
-<h3 align="center">𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴</h3> 
+<h1 align="center">𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴</h1> 
 
 <div align="center"><br>
   <img src="https://skillicons.dev/icons?i=python,html,css,tailwind,figma,javascript" alt="Tech Stack Icons" /> <br>
