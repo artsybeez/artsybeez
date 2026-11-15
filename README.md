@@ -1,7 +1,3 @@
-<div align = "center">
-  <img src = "https://media.tenor.com/qsbLvtvzEjQAAAAM/pusheen-computer.gif" height = "400" width = "700" alt = "pusheen on laptop GIF"><br> 
-</div>
-<br><br>
 <h3 align="center">𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴</h3> 
 
 <div align="center"><br>
